@@ -1,5 +1,5 @@
-<h3 align="center">Hey there ✌, I'm Shreyas Jain</h3>
-<h4 align="center">A curious developer and a student at Delhi Technological University graduating in 2023</h4>
+<h3 align="left">Hey there ✌, I'm Shreyas Jain</h3>
+<h4 align="left">A curious developer and a student at Delhi Technological University graduating in 2023</h4>
 
 - 🔭 I’m currently working on [Mad Bug Soccer](https://github.com/shreyasjn/mad-bug-soccer)
 - 📫 Reach me at shreyasjainofficial@gmail.com
