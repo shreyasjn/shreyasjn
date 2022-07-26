@@ -1,6 +1,6 @@
 <h1 align="center">Hey there ✌, I'm Shreyas Jain</h1>
 <h3 align="center">A curious developer from India</h3>
-<img align="right" alt="Cool-Image" width="400" src="https://tenor.com/0jZw.gif">
+<img align="right" alt="Cool-Image" width="400" src="https://c.tenor.com/qx1_4iodoW4AAAAC/dance-racoon.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasjn&label=Profile%20Views&color=01d02a&style=flat-square" alt="shreyasjn" /> </p>
 
 - 🔭 I’m currently working on [Mad Bug Soccer](https://github.com/shreyasjn/mad-bug-soccer)
