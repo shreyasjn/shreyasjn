@@ -2,7 +2,7 @@
 <h4 align="left">A curious developer and a student at Delhi Technological University graduating in 2023</h4>
 
 - 🔭 I’m currently working on [Mad Bug Soccer](https://github.com/shreyasjn/mad-bug-soccer)
-- 📫 You can reach me via shreyasjainofficial@gmail.com
+- 📫 You can reach me at https://www.linkedin.com/in/shreyasjain/
 - 🦝 I think racoons are cool.
 
 <h4 align="left">Connect with me</h4>
